@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "QWHwlfLST0Roit8G0EDaqu+4TO1f5jFX8KZlCrbcitfiOkeJXvKIxcL+nv3RaEU3//aGlV+9i9LM1GLSbwJvsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping App Blazor\\MarketJunctionAPI\\MarketJunctionAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pulasthiranathunga\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.16\\microsoft.aspnetcore.openapi.7.0.16.nupkg.sha512",
+    "C:\\Users\\pulasthiranathunga\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\pulasthiranathunga\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\pulasthiranathunga\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\pulasthiranathunga\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\pulasthiranathunga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\pulasthiranathunga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://cma-devops:8080/tfs/DefaultCollection/_packaging/Camms.Core%40Local/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
