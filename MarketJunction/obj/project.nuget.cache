@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1kEGI2LkMi29FGcsJJtFs0JNT2A8T4nmzMZXEP/imcXRIejdUwE5KbgpWfAdkPFCalJXXLDKdQlCkY+F5iJ2+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping App Blazor\\MarketJunction\\MarketJunction.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://cma-devops:8080/tfs/DefaultCollection/_packaging/Camms.Core%40Local/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

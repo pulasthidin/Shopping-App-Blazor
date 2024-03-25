@@ -1,0 +1,72 @@
+﻿@page "/login"
+@using System.ComponentModel.DataAnnotations
+@inject HttpClient Http
+@inject IHttpClientFactory HttpClientFactory
+
+<h3>Login</h3>
+
+<EditForm Model="@loginModel" OnValidSubmit="HandleLogin">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="username">Username</label>
+        <InputText id="username" class="form-control" @bind-Value="loginModel.Username" />
+    </div>
+
+    <div class="form-group">
+        <label for="password">Password</label>
+        <InputText id="password" type="password" class="form-control" @bind-Value="loginModel.Password" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Login</button>
+</EditForm>
+
+@code {
+
+    private HttpClient WebAPIClient;
+    private LoginModel loginModel = new LoginModel();
+
+    protected override void OnInitialized()
+    {
+        WebAPIClient = HttpClientFactory.CreateClient("WebAPI");
+    }
+
+    private async Task HandleLogin()
+    {
+        var loginRequest = new LoginRequest
+            {
+                Username = loginModel.Username,
+                Password = loginModel.Password
+            };
+
+        var response = await WebAPIClient.PostAsJsonAsync("api/Authentication/Login", loginRequest);
+
+        if (response.IsSuccessStatusCode)
+        {
+            // Handle successful login
+            // You can redirect to another page or display a success message
+            Console.WriteLine("Login successful");
+        }
+        else
+        {
+            // Handle login failure
+            Console.WriteLine("Login failed");
+        }
+    }
+
+    private class LoginModel
+    {
+        [Required]
+        public string Username { get; set; }
+
+        [Required]
+        public string Password { get; set; }
+    }
+
+    private class LoginRequest
+    {
+        public string Username { get; set; }
+        public string Password { get; set; }
+    }
+}
