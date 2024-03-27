@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketJunction", "MarketJunction.csproj", "{81B41DE3-350F-4DE6-813E-82990F60FC18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketJunction", "MarketJunction.csproj", "{81B41DE3-350F-4DE6-813E-82990F60FC18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketJunctionAPI", "..\MarketJunctionAPI\MarketJunctionAPI.csproj", "{E95F9954-C5FF-42FD-AED4-D2BE0E1F145F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketJunctionAPI", "..\MarketJunctionAPI\MarketJunctionAPI.csproj", "{E95F9954-C5FF-42FD-AED4-D2BE0E1F145F}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MarketJunctionDB", "..\MarketJunctionDB\MarketJunctionDB.sqlproj", "{807C7D7A-2AB6-4585-8ADB-559FEB0DF475}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,12 @@ Global
 		{E95F9954-C5FF-42FD-AED4-D2BE0E1F145F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E95F9954-C5FF-42FD-AED4-D2BE0E1F145F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E95F9954-C5FF-42FD-AED4-D2BE0E1F145F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807C7D7A-2AB6-4585-8ADB-559FEB0DF475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807C7D7A-2AB6-4585-8ADB-559FEB0DF475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807C7D7A-2AB6-4585-8ADB-559FEB0DF475}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{807C7D7A-2AB6-4585-8ADB-559FEB0DF475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807C7D7A-2AB6-4585-8ADB-559FEB0DF475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807C7D7A-2AB6-4585-8ADB-559FEB0DF475}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

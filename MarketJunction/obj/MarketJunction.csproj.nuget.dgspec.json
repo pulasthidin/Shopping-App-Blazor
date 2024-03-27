@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping App Blazor\\MarketJunction\\MarketJunction.csproj": {}
+    "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\MarketJunction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping App Blazor\\MarketJunction\\MarketJunction.csproj": {
+    "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\MarketJunction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping App Blazor\\MarketJunction\\MarketJunction.csproj",
+        "projectUniqueName": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\MarketJunction.csproj",
         "projectName": "MarketJunction",
-        "projectPath": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping App Blazor\\MarketJunction\\MarketJunction.csproj",
+        "projectPath": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\MarketJunction.csproj",
         "packagesPath": "C:\\Users\\pulasthiranathunga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping App Blazor\\MarketJunction\\obj\\",
+        "outputPath": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

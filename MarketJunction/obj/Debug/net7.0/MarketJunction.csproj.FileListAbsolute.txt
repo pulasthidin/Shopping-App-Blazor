@@ -29,3 +29,35 @@ C:\Users\pulasthiranathunga\Desktop\Shopping App Blazor\MarketJunction\obj\Debug
 C:\Users\pulasthiranathunga\Desktop\Shopping App Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.pdb
 C:\Users\pulasthiranathunga\Desktop\Shopping App Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.genruntimeconfig.cache
 C:\Users\pulasthiranathunga\Desktop\Shopping App Blazor\MarketJunction\obj\Debug\net7.0\ref\MarketJunction.dll
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\bin\Debug\net7.0\appsettings.json
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\bin\Debug\net7.0\MarketJunction.staticwebassets.runtime.json
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\bin\Debug\net7.0\MarketJunction.exe
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\bin\Debug\net7.0\MarketJunction.deps.json
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\bin\Debug\net7.0\MarketJunction.runtimeconfig.json
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\bin\Debug\net7.0\MarketJunction.dll
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\bin\Debug\net7.0\MarketJunction.pdb
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.AssemblyInfoInputs.cache
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.AssemblyInfo.cs
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.csproj.CoreCompileInputs.cache
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.RazorAssemblyInfo.cache
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.RazorAssemblyInfo.cs
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.sourcelink.json
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\staticwebassets\msbuild.MarketJunction.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\staticwebassets\msbuild.build.MarketJunction.props
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MarketJunction.props
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MarketJunction.props
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\scopedcss\bundle\MarketJunction.styles.css
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\scopedcss\projectbundle\MarketJunction.bundle.scp.css
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.dll
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\refint\MarketJunction.dll
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.pdb
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\MarketJunction.genruntimeconfig.cache
+C:\Users\pulasthiranathunga\Desktop\Shopping-App-Blazor\MarketJunction\obj\Debug\net7.0\ref\MarketJunction.dll
