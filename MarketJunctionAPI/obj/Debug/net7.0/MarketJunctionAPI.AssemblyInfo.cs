@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarketJunctionAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b0349413e0d1de2a924ce5b1a1911526f3a1772")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3ee149e9d458562c6310d18b840b507f2aa70f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarketJunctionAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarketJunctionAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
