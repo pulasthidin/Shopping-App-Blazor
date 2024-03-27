@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping App Blazor\\MarketJunctionAPI\\MarketJunctionAPI.csproj",
+      "projectUniqueName": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunctionAPI\\MarketJunctionAPI.csproj",
       "projectName": "MarketJunctionAPI",
-      "projectPath": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping App Blazor\\MarketJunctionAPI\\MarketJunctionAPI.csproj",
+      "projectPath": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunctionAPI\\MarketJunctionAPI.csproj",
       "packagesPath": "C:\\Users\\pulasthiranathunga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping App Blazor\\MarketJunctionAPI\\obj\\",
+      "outputPath": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunctionAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

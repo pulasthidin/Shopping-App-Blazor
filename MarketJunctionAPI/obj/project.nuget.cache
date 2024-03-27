@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QWHwlfLST0Roit8G0EDaqu+4TO1f5jFX8KZlCrbcitfiOkeJXvKIxcL+nv3RaEU3//aGlV+9i9LM1GLSbwJvsg==",
+  "dgSpecHash": "lNkQnO8a+5HVl6nUTrk7kfZo7yTU6c7ax1Iu7oTXhSTEc4lpRT885Begbr/lpOF1ffi319wPynvvL/cOTuGGnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping App Blazor\\MarketJunctionAPI\\MarketJunctionAPI.csproj",
+  "projectFilePath": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunctionAPI\\MarketJunctionAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pulasthiranathunga\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.16\\microsoft.aspnetcore.openapi.7.0.16.nupkg.sha512",
     "C:\\Users\\pulasthiranathunga\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
