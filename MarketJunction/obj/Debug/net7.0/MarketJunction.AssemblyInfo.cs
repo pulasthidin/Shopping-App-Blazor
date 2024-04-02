@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarketJunction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3ee149e9d458562c6310d18b840b507f2aa70f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2cf98b17b520e9fb33b8c9e1ebc13e83404e4e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarketJunction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarketJunction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

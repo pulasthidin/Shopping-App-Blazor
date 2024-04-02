@@ -1,23 +1,30 @@
-﻿using MarketJunctionAPI.Models;
+﻿using MarketJunctionAPI.Data;
+using MarketJunctionAPI.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace MarketJunctionAPI.Services
 {
     public class AuthenticationService
     {
-        // Implement methods for user registration, login, and other authentication-related operations
-        // These methods will interact with your data store (e.g., database) to authenticate users
+        private readonly ApplicationDbContext _dbContext;
+
+        public AuthenticationService(ApplicationDbContext dbContext)
+        {
+            _dbContext = dbContext;
+        }
 
         public async Task<User?> AuthenticateUser(string username, string password)
         {
-            // Implement logic to authenticate user based on username and password
-            // Return the authenticated user object or null if authentication fails
-            // Example logic:
+            // Query the Users table or collection to find a user with the provided username and password
+            var user = await _dbContext.Users.FirstOrDefaultAsync(u => u.Username == username && u.Password == password);
 
-            // Assuming you have a method to authenticate user in your data store
-            // var authenticatedUser = await YourDataStore.AuthenticateUser(username, password);
+            // If a matching user is found, return the user object
+            if (user != null)
+            {
+                return user;
+            }
 
-            // return authenticatedUser;
-
+            // If no matching user is found, return null
             return null;
         }
     }

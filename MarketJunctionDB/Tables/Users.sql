@@ -11,4 +11,6 @@
     [Telephone] NVARCHAR(50) NULL,
     [CreatedAt] DATETIME NOT NULL DEFAULT GETDATE(), 
     [UpdatedAt] DATETIME NULL, 
+    CONSTRAINT UC_Users_Username UNIQUE (Username),
+    CONSTRAINT UC_Users_Email UNIQUE (Email)
 )

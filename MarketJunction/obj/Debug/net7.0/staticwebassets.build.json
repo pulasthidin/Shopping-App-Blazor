@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oAvcqUkAIkXxvJcOMvbY56NWexdCvdS3EWsVv8oV1bM=",
+  "Hash": "6/l0hTQg9q2PmuWiUDsFgaQtNCcBvAFxd4Zl7lm+hOs=",
   "Source": "MarketJunction",
   "BasePath": "_content/MarketJunction",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MarketJunction\\wwwroot",
       "Source": "MarketJunction",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MarketJunction.styles.css",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MarketJunction.styles.css",
       "SourceId": "MarketJunction",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "MarketJunction.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MarketJunction.styles.css"
+      "OriginalItemSpec": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MarketJunction.styles.css"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MarketJunction.bundle.scp.css",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MarketJunction.bundle.scp.css",
       "SourceId": "MarketJunction",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "MarketJunction.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MarketJunction.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MarketJunction.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\css\\site.css",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\favicon.png",
       "SourceId": "MarketJunction",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Shopping-App-Blazor\\MarketJunction\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pulasthiranathunga\\Desktop\\Git\\MarketJunction\\wwwroot\\",
       "BasePath": "_content/MarketJunction",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
